@@ -1,2 +1,2 @@
-# Inequality Decision Making
+# Household Authority Inequality
  
