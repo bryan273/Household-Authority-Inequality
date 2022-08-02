@@ -17,7 +17,7 @@ The Outcome of this project are:
 
 ## Scope and Limitation
 * The data region used is mostly Indonesia, and some other countries have data for the topic
-* The range of data used ranges from 2002 to 2018
+* The range of data used ranges from 2003 to 2018
 * The intended authority is in terms of decision making in 3 aspects: Visiting decision, Household Purchase decision, and Health
 decision
 
