@@ -40,7 +40,7 @@ Data documentation can be accessed here: https://databank.worldbank.org/metadata
 ## Product : Interactive infographic
 <img src="https://user-images.githubusercontent.com/88226713/182277095-3d1ceb85-37b8-4796-bced-bb658f9180b1.jpg" width="700">
 
-Interactive infographic is available in : [ristek.link/HouseholdAuthorityInequality](ristek.link/HouseholdAuthorityInequality)
+Interactive infographic is available in : https://ristek.link/HouseholdAuthorityInequality
 
 ## Conclusion
 Based on data, wives' participation in household decisions in Indonesia is relatively high. The cause of this inequality can be influenced by several factors such as belief, applicable laws, education, and other aspects. These inequalities result in unequal opportunities for men and women. With the belief that the wife can be superior to her husband, accompanied by improvements in several aspects, the wife is expected to have more significant opportunities in the future.
